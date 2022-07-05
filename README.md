@@ -13,6 +13,8 @@ Data and code to conduct time-series analysis of daily ambient temperature and f
 *DLNM_2dayLag_Median_Ref.r* contains the analysis code for one of the sensitivity analyses using a two day lag. This code includes arguments for specifying a lag in the DLNM model.
 
 
+The DLNM analysis code requires downloading the "Attributable Risk from a DLNM" function code from Antonio Gasparrini (attrdl.R): https://github.com/gasparrini/2015_gasparrini_Lancet_Rcodedata
+
 
 ----------------
 This analysis benefited from the R code examples written by Antonio Gasparrini and made available on his personal website (http://www.ag-myresearch.com/)
