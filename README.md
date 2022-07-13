@@ -17,9 +17,12 @@ NOTE: The DLNM analysis code requires that you download the "Attributable Risk f
 
 
 ----------------
+#### Acknoledgements & Data Credits
 This analysis benefited from the R code examples written by Antonio Gasparrini and made available on his [personal website](http://www.ag-myresearch.com/).
 
 The firearm incidents data was downaloded from [Gun Violence Archive](https://www.gunviolencearchive.org/) (GVA). These are the terms of use from the GVA website:
 >Gun Violence Archive (GVA) is a not for profit corporation formed in 2013 to provide free online public access to accurate information about gun-related violence in the United States. GVA will collect and check for accuracy, comprehensive information about gun-related violence in the U.S. and then post and disseminate it online, primarily if not exclusively on this website and summary ledgers at www.facebook.com/gunviolencearchive and on Twitter @gundeaths. It is hoped that this information will inform and assist those engaged in discussions and activities concerning gun violence, including analysis of proposed regulations or legislation relating to gun safety usage. All we ask is to please provide proper credit for use of Gun Violence Archive data and advise us of its use.
+
+Arezoo Sadeghi and Jeff Simeon of the Boston University Software Application & Innovation Lab (SAIL) helped obtain data from the Gun Violence Archive.
 
 
