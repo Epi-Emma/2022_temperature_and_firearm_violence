@@ -6,11 +6,11 @@ This repository contains code to replicate a time-series analysis of daily ambie
 --------------
 **The files:** 
 
-*GVA_Incidents_100cities_2015_2020.rds* is a data file that contains a count of Gun Violence Archive recorded firearm incidents per city, per day, from 2015-2020 in the 100 analysis cities.  
+- *GVA_Incidents_100cities_2015_2020.rds* is a data file that contains a count of Gun Violence Archive recorded firearm incidents per city, per day, from 2015-2020 in the 100 analysis cities.  
 
-*DLNM_0dayLag_Median_Ref.R* contains the analysis code for the primary analysis investigating the relationship between daily temperature and firearm incidents with a 0-day lag. 
+- *DLNM_0dayLag_Median_Ref.R* contains the analysis code for the primary analysis investigating the relationship between daily temperature and firearm incidents with a 0-day lag. 
 
-*DLNM_2dayLag_Median_Ref.R* contains the analysis code for one of the sensitivity analyses using a 2-day lag. This code includes arguments for specifying a lag in the DLNM model.
+- *DLNM_2dayLag_Median_Ref.R* contains the analysis code for one of the sensitivity analyses using a 2-day lag. This code includes arguments for specifying a lag in the DLNM model.
 
 
 NOTE: The DLNM analysis code requires that you download the "Attributable Risk from a DLNM" function code from Antonio Gasparrini (attrdl.R): https://github.com/gasparrini/2015_gasparrini_Lancet_Rcodedata
