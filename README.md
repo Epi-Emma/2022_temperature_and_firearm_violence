@@ -1,7 +1,8 @@
 # 2022_temperature_and_firearm_violence
 This repository contains code from a time-series analysis of daily ambient temperature and firearm violence incidents across 100 US cities from 2015 - 2020. 
 
-[ADD PUBLICATION CITATION HERE ONCE AVAILABLE... THEN CHANGE NAME OF REPOSITORY TO MATCH CITATION]
+Lyons VH, Gause EL, Spangler KR, Wellenius GA, Jay J. Analysis of Daily Ambient Temperature and Firearm Violence in 100 US Cities. *JAMA Netw Open*. 2022;5(12).
+
 
 --------------
 **The files:** 
